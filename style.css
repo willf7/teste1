@@ -1,0 +1,11 @@
+* {
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+}
